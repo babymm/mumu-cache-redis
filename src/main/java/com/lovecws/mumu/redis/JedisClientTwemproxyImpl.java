@@ -1,4 +1,4 @@
-package com.lovecws.mumu.cache.redis;
+package com.lovecws.mumu.redis;
 
 import java.util.Set;
 

@@ -1,4 +1,4 @@
-package com.lovecws.mumu.cache.redis;
+package com.lovecws.mumu.redis;
 
 /**
  * 单个redis服务器
